@@ -2,7 +2,7 @@
 
 [![Website](https://svgshare.com/i/QsL.svg)](https://www.gamingforecast.com)
 
-## I am newbie developer trying to learn things :)!!
+### I am newbie developer trying to learn things :)!!
 
 - 🌱 I’m currently learning everything :)
 - 🥅 My Goal: Contribute more to Open Source projects
