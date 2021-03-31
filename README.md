@@ -1,6 +1,7 @@
 ### Hi there, I'm Owen 👋
 
-[![Website](https://i.ibb.co/d46ykZx/68747470733a2f2f73766773686172652e636f6d2f692f5173-svg.png)](https://www.gamingforecast.com)
+[![Website](https://i.ibb.co/d46ykZx/68747470733a2f2f73766773686172652e636f6d2f692f5173-svg.png)](https://www.gamingforecast.com)<br />
+<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=itsOwen.profile.id">
 
 ### I am newbie developer trying to learn things :)!!
 
