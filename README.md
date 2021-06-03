@@ -25,7 +25,7 @@
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='#'>
-	<img src=https://img.shields.io/badge/Discord-INCODE!%238634-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = Python#1111 [![Website](https://discord.gg/aATzW2HnfH)'>
+	<img src=https://img.shields.io/badge/Discord-Python%231111-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = Python#1111 [![Website](https://discord.gg/aATzW2HnfH)'>
 	</a>
 </div>
 
