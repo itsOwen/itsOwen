@@ -32,7 +32,7 @@
 <hr>
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Owen Spotify Playing" width="350" />](https://open.spotify.com/user/7wk4smdx2irfd1jgib6w4p9eo?si=b4eca48348be4996)
+[<img src="https://itsowen.vercel.app/api/spotify" alt="Owen Spotify Playing" width="350" />](https://open.spotify.com/user/7wk4smdx2irfd1jgib6w4p9eo)
 
 ### Languages and Tools:
 
