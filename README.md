@@ -50,7 +50,7 @@
 <br />
 
 <div align="center">
-<img src="https://lh3.googleusercontent.com/proxy/0lok17XDU4SQXfRJ23Bwucbj10m_iL0MhU0r5V2RthNpaFZKe4org1RbPWZhpvl5RAm2rNjtdtpg94i0yGuNWJK7ZGM_Pv8p-h5VVzZyjb0AQcTZXYSFxVrfmj6SuS1Ol_1Gz9iZOaaAZw3UfPgFpcgvEgyXSJVFwofVYcDqntBsHBZPa3lMMArdQgWj1jkTipWdPMVpvV07RvgQRuQ5ztXy7sFp_Wzx0tKWy22lpm0EPsS3wkLkeuN_adXuSHnt9BYRoaIZBdFaOLog" >
+<img src="https://i.ibb.co/9qSYdxL/arrow.png" >
 
 #### Thank You 🙏🏼
 </div>
