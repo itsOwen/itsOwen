@@ -13,7 +13,7 @@
 
 [![Website](https://img.shields.io/website?label=gamingforecast.com&style=for-the-badge&url=https%3A%2F%2FALEHACKsp.github.io)](https://www.gamingforecast.com)
 [![Website](https://img.shields.io/website?label=dogefiles.io&style=for-the-badge&url=https%3A%2F%2FALEHACKsp.github.io)](https://dogefiles.io)
-![Discord](https://img.shields.io/discord/812369823496405025?color=blue&label=Our%20Discord&logo=discord&style=for-the-badge)
+![Discord](https://img.shields.io/discord/871798966495375480?color=blue&label=Our%20Discord&logo=discord&style=for-the-badge)
 
 ## I am newbie developer trying to learn things!
 
