@@ -11,7 +11,6 @@
 
 </div>
 
-[![Website](https://img.shields.io/website?label=futuregaming.io&style=for-the-badge&url=https%3A%2F%2FALEHACKsp.github.io)](https://futuregaming.io)
 [![Website](https://img.shields.io/website?label=dogefiles.io&style=for-the-badge&url=https%3A%2F%2FALEHACKsp.github.io)](https://dogefiles.io)
 
 ## I am newbie developer trying to learn things!
