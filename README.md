@@ -13,9 +13,9 @@
 
 [![Website](https://img.shields.io/website?label=dogefiles.io&style=for-the-badge&url=https%3A%2F%2FALEHACKsp.github.io)](https://dogefiles.io)
 
-## I am newbie developer trying to learn things!
+## I am Full-stack Developer!
 
-- 🌱 I’m currently learning everything :)
+- 🌱 I love to learn new things :)
 - 🥅 My Goal: Contribute more to Open Source projects
 
 
