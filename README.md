@@ -1,54 +1,72 @@
-[![Header](https://i.pinimg.com/originals/51/0b/c9/510bc947c8b18d99f0409270c7f535b0.gif)](https://github.com/itsOwen)<!-- If you want the template for my gif, email me! -->
+# Owen Singh
 
+[![](https://img.shields.io/badge/-itsOwen-%23181717?style=flat-square&logo=github)](https://github.com/itsOwen)
+[![](https://img.shields.io/badge/-@owensingh-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/owensingh)
+[![](https://img.shields.io/badge/-@owensingh-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/owensingh/)
 
-### Hi there, I'm Owen <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="28">
+I'm a Data Analyst with a Master's in Computer Science, specializing in analyzing large datasets to find meaningful patterns using Python, SQL, and data visualization techniques.
 
-<a href="https://steamcommunity.com/id/secretagent6">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg">
-    <br/>
-    <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=itsOwen.profile.id">
-</a>
+## Currently Working On
 
-</div>
+### BetterNet
+[![](https://svg.bookmark.style/api?url=https://github.com/itsOwen/BetterNet&mode=dark&style=horizontal)](https://github.com/itsOwen/BetterNet)
 
-[![Website](https://img.shields.io/website?label=dogefiles.io&style=for-the-badge&url=https%3A%2F%2FALEHACKsp.github.io)](https://dogefiles.io)
+BetterNet is a state-of-the-art deep learning model for accurate and efficient polyp segmentation in medical images. Built with Python, TensorFlow, Keras, OpenCV, and scikit-learn, it outperforms U-Net and Attention U-Net on benchmarks.
 
-## I am Full-stack Developer!
+### GeneticsGPT
+[![](https://svg.bookmark.style/api?url=https://github.com/itsOwen/GeneticsGPT&mode=dark&style=horizontal)](https://github.com/itsOwen/GeneticsGPT)
 
-- 🌱 I love to learn new things :)
-- 🥅 My Goal: Contribute more to Open Source projects
+GeneticsGPT is an application that leverages OpenAI's GPT-3.5-turbo model to provide insights and answers to genetic and disease-related questions, integrating with the Open Targets genetic database.
 
+### Dogefiles.io
+[![](https://svg.bookmark.style/api?url=https://dogefiles.io&mode=light&style=horizontal)](https://dogefiles.io)
 
-## ⚡ Find  Me on
+Dogefiles.io is a cloud storage service built with React, Next.js, Express.js, MongoDB, and AWS. I designed a data-informed user experience and secured over 80k monthly visitors through analytic enhancements.
 
-<div align='left' style="display: flex; justify-content: space-between;">
-	<a href='https://discord.gg/aATzW2HnfH'>
-	<img src=https://img.shields.io/badge/Discord-Python%231111-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = Python#1111 [![Website](https://discord.gg/aATzW2HnfH)'>
-	</a>
-</div>
+## Other Projects
 
-<hr>
+### girlfriend-morning-gn-text
+[![](https://svg.bookmark.style/api?url=https://github.com/itsOwen/girlfriend-morning-gn-text&mode=dark&style=horizontal)](https://github.com/itsOwen/girlfriend-morning-gn-text)
 
-### Spotify Playing 🎧
-[<img src="https://itsowen.vercel.app/api/spotify" alt="Owen Spotify Playing" width="350" />](https://open.spotify.com/user/7wk4smdx2irfd1jgib6w4p9eo)
+A simple WhatsApp automation using Venom to send text messages to your girlfriend every morning.
 
-### Languages and Tools:
+### discord-blogger-integration
+[![](https://svg.bookmark.style/api?url=https://github.com/itsOwen/discord-blogger-integration&mode=dark&style=horizontal)](https://github.com/itsOwen/discord-blogger-integration)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+A Discord bot created in Python using the Blogger API to search and send website articles as embedded messages in Discord chat.
 
-<br />
-<br />
+### discord-wordpress-integration
+[![](https://svg.bookmark.style/api?url=https://github.com/itsOwen/discord-wordpress-integration&mode=dark&style=horizontal)](https://github.com/itsOwen/discord-wordpress-integration)
 
-<div align="center">
-<img src="https://i.ibb.co/9qSYdxL/arrow.png" >
+A bot to send automated messages to your Discord server whenever something is updated or added to your website.
 
-#### Thank You 🙏🏼
-</div>
+## Open-Source Contributions:
+
+### Mecanik/cloudflare-image-resizing
+[![](https://svg.bookmark.style/api?url=https://github.com/Mecanik/cloudflare-image-resizing&mode=dark&style=horizontal)](https://github.com/Mecanik/cloudflare-image-resizing)
+
+A CloudFlare Image Resizing plugin for WordPress, written in PHP.
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=ffffff)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff)
+![Keras](https://img.shields.io/badge/-Keras-%23D00000?style=flat-square&logo=keras&logoColor=ffffff)
+![OpenCV](https://img.shields.io/badge/-OpenCV-%23D00000?style=flat-square&logo=opencv&logoColor=ffffff)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=ffffff)
+![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas&logoColor=ffffff)
+![NumPy](https://img.shields.io/badge/-NumPy-%23013243?style=flat-square&logo=numpy&logoColor=ffffff)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-%23E79833?style=flat-square&logo=matplotlib&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
