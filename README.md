@@ -1,57 +1,48 @@
-# Owen Singh
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙊𝙬𝙚𝙣 𝙎𝙞𝙣𝙜𝙝
 
 [![](https://img.shields.io/badge/-itsOwen-%23181717?style=flat-square&logo=github)](https://github.com/itsOwen)
 [![](https://img.shields.io/badge/-@owensingh-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/owensingh)
 [![](https://img.shields.io/badge/-@owensingh-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/owensingh/)
 
-I'm a Data Analyst with a Master's in Computer Science, specializing in analyzing large datasets to find meaningful patterns using Python, SQL, and data visualization techniques.
+𝑰 ❤️ 𝑫𝒂𝒕𝒂 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒂𝒏𝒅 𝑨𝑰/𝑴𝑳!
+
+💻 𝙎𝙚𝙡𝙛-𝙩𝙖𝙪𝙜𝙝𝙩 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙖𝙣𝙙 𝘿𝙖𝙩𝙖 𝘼𝙣𝙖𝙡𝙮𝙨𝙩.
+
+🖖 𝙋𝙮𝙩𝙝𝙤𝙣 𝙚𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩 | 🎮 𝙂𝙖𝙢𝙞𝙣𝙜 𝙖𝙛𝙞𝙘𝙞𝙤𝙣𝙖𝙙𝙤 | 🧠 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙖𝙗𝙤𝙪𝙩 𝘼𝙧𝙩𝙞𝙛𝙞𝙘𝙞𝙖𝙡 𝙄𝙣𝙩𝙚𝙡𝙡𝙞𝙜𝙚𝙣𝙘𝙚 𝙖𝙣𝙙 𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜
 
 ## Currently Working On
 
 ### BetterNet
 [![](https://svg.bookmark.style/api?url=https://github.com/itsOwen/BetterNet&mode=dark&style=horizontal)](https://github.com/itsOwen/BetterNet)
 
-BetterNet is a state-of-the-art deep learning model for accurate and efficient polyp segmentation in medical images. Built with Python, TensorFlow, Keras, OpenCV, and scikit-learn, it outperforms U-Net and Attention U-Net on benchmarks.
-
 ### GeneticsGPT
 [![](https://svg.bookmark.style/api?url=https://github.com/itsOwen/GeneticsGPT&mode=dark&style=horizontal)](https://github.com/itsOwen/GeneticsGPT)
 
-GeneticsGPT is an application that leverages OpenAI's GPT-3.5-turbo model to provide insights and answers to genetic and disease-related questions, integrating with the Open Targets genetic database.
-
 ### Dogefiles.io
 [![](https://svg.bookmark.style/api?url=https://dogefiles.io&mode=light&style=horizontal)](https://dogefiles.io)
-
-Dogefiles.io is a cloud storage service built with React, Next.js, Express.js, MongoDB, and AWS. I designed a data-informed user experience and secured over 80k monthly visitors through analytic enhancements.
 
 ## Other Projects
 
 ### girlfriend-morning-gn-text
 [![](https://svg.bookmark.style/api?url=https://github.com/itsOwen/girlfriend-morning-gn-text&mode=dark&style=horizontal)](https://github.com/itsOwen/girlfriend-morning-gn-text)
 
-A simple WhatsApp automation using Venom to send text messages to your girlfriend every morning.
-
 ### discord-blogger-integration
 [![](https://svg.bookmark.style/api?url=https://github.com/itsOwen/discord-blogger-integration&mode=dark&style=horizontal)](https://github.com/itsOwen/discord-blogger-integration)
 
-A Discord bot created in Python using the Blogger API to search and send website articles as embedded messages in Discord chat.
-
 ### discord-wordpress-integration
 [![](https://svg.bookmark.style/api?url=https://github.com/itsOwen/discord-wordpress-integration&mode=dark&style=horizontal)](https://github.com/itsOwen/discord-wordpress-integration)
-
-A bot to send automated messages to your Discord server whenever something is updated or added to your website.
 
 ## Open-Source Contributions:
 
 ### Mecanik/cloudflare-image-resizing
 [![](https://svg.bookmark.style/api?url=https://github.com/Mecanik/cloudflare-image-resizing&mode=dark&style=horizontal)](https://github.com/Mecanik/cloudflare-image-resizing)
 
-A CloudFlare Image Resizing plugin for WordPress, written in PHP.
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
