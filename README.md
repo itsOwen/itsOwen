@@ -6,9 +6,7 @@
 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/owensingh?style=social)](https://twitter.com/owensingh)
-
-[![Linkedin: owensingh](https://img.shields.io/badge/-owensingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owensingh/)](https://www.linkedin.com/in/owensingh/)
+[![Linkedin: imowensingh](https://img.shields.io/badge/-owensingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imowensingh/)](https://www.linkedin.com/in/imowensingh/)
 
 [![GitHub Owen](https://img.shields.io/github/followers/itsOwen?label=follow&style=social)](https://github.com/itsOwen)
 
