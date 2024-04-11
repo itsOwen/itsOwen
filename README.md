@@ -1,3 +1,20 @@
+<h2> Hi, I'm Owen Singh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+<p><em>Data Analyst and Self-taught Software Developer<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently working on <a href="https://github.com/itsOwen/BetterNet">BetterNet</a>, <a href="https://github.com/itsOwen/GeneticsGPT">GeneticsGPT</a>, and <a href="https://dogefiles.io">Dogefiles.io</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+</em></p>
+
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/owensingh?style=social)](https://twitter.com/owensingh)
+
+[![Linkedin: owensingh](https://img.shields.io/badge/-owensingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owensingh/)](https://www.linkedin.com/in/owensingh/)
+
+[![GitHub Owen](https://img.shields.io/github/followers/itsOwen?label=follow&style=social)](https://github.com/itsOwen)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```python
 owen = {
    "name": "Owen Singh",
    "roles": ["Data Analyst", "Self-taught Software Developer"],
@@ -16,21 +33,5 @@ owen = {
    "currently_working_on": ["BetterNet", "GeneticsGPT", "Dogefiles.io"],
    "other_projects": ["girlfriend-morning-gn-text", "discord-blogger-integration", "discord-wordpress-integration"],
    "open_source_contributions": ["Mecanik/cloudflare-image-resizing"],
-   "hobbies": ["Gaming", "Programming", "Learning about AI/ML"],
-   "contact": "You can reach me on Twitter @owensingh or LinkedIn /in/owensingh/",
-   "fun_fact": "I'm a self-taught programmer with a passion for data analysis and artificial intelligence!"
+   "hobbies": ["Gaming", "Programming", "Learning about AI/ML"]
 }
-
-print(f"Hello, I'm {owen['name']}!")
-print(f"I'm a {', '.join(owen['roles'])} with a {owen['education']} from {owen['location']}.")
-print(f"I'm interested in {', '.join(owen['interests'])} and work with technologies like:")
-
-for tech_category, techs in owen["technologies"].items():
-   print(f"- {tech_category.replace('_', ' ').title()}: {', '.join(techs)}")
-
-print(f"\nCurrently, I'm working on projects like {', '.join(owen['currently_working_on'])}.")
-print(f"Some of my other projects include {', '.join(owen['other_projects'])}, and I've contributed to {', '.join(owen['open_source_contributions'])}.")
-
-print(f"\nIn my free time, I enjoy {', '.join(owen['hobbies'])}.")
-print(owen["contact"])
-print(owen["fun_fact"])
