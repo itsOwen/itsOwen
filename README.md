@@ -36,4 +36,4 @@ owen = {
    "hobbies": ["Gaming", "Programming", "Learning about AI/ML"]
 }
 ```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Thanks for visiting my profile :)</b></em>
+<em><b>Thanks for visiting my profile :)</b></em>
