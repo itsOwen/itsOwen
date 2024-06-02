@@ -34,4 +34,7 @@ owen = {
    "hobbies": ["Gaming", "Programming", "Learning about AI/ML"]
 }
 ```
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=7wk4smdx2irfd1jgib6w4p9eo)
+
 <em><b>Thanks for visiting my profile :)</b></em>
