@@ -34,6 +34,9 @@ Want to know more about me? [Check out my portfolio.](https://owensingh.com/)
 
 <br>
 
+## Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/owensingh?theme=dark)
+
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
