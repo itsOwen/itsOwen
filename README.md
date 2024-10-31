@@ -2,9 +2,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/imowensingh/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=black)](https://github.com/itsOwen)
 
-Hey there 👋
+Hey there 👋 
 
-I'm Owen, a software developer. I specialize in Python development, data analysis, and machine learning. I'm passionate about leveraging technology to solve complex problems and create innovative solutions.
+I am Owen, a software developer who specializes in Python development, data analysis, and machine learning. I am passionate about leveraging technology to solve complex problems and create innovative solutions.
 
 Want to know more about me? [Check out my portfolio.](https://owensingh.com/)
 
