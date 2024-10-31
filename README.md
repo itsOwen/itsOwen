@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-I'm Owen, a data analyst and self-taught software developer. I specialize in Python development, data analysis, and machine learning. I'm passionate about leveraging technology to solve complex problems and create innovative solutions.
+I'm Owen, a software developer. I specialize in Python development, data analysis, and machine learning. I'm passionate about leveraging technology to solve complex problems and create innovative solutions.
 
 Want to know more about me? [Check out my portfolio.](https://owensingh.com/)
 
