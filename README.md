@@ -18,6 +18,7 @@ Want to know more about me? [Check out my portfolio.](https://owensingh.com/)
 ## 📌 Featured Projects
 
 - [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) - A LLM Based web scraping tool
+- [There, I Saved You A Minute!](https://chromewebstore.google.com/detail/there-i-saved-you-a-minut/gkdifhfnmifllojmoegfhkhfkhkjeaao) - A Simple and Fun Chrome Web Summarizer Extension
 - [BetterNet](https://github.com/itsOwen/BetterNet) - Precision Polyp Segmentation 🚀
 - [GeneticsGPT](https://github.com/itsOwen/GeneticsGPT) - AI-powered genetics search and analysis
 - [Discord Blogger Integration](https://github.com/itsOwen/discord-blogger-integration) - Connect Discord with Blogger
