@@ -18,7 +18,7 @@ Want to know more about me? [Check out my portfolio.](https://owensingh.com/)
 ## 📌 Featured Projects
 
 - [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) - A LLM Based web scraping tool
-- [PlayCount](https://github.com/itsOwen/playcount-decky) - A Steam Deck Plugin that shows Live Player Count (4000+ Active Users)
+- [PlayCount](https://github.com/itsOwen/playcount-decky) - A Steam Deck Plugin that shows Live Player Count (8000+ Active Users)
 - [There, I Saved You A Minute!](https://chromewebstore.google.com/detail/there-i-saved-you-a-minut/gkdifhfnmifllojmoegfhkhfkhkjeaao) - A Simple and Fun Chrome Web Summarizer Extension
 - [BetterNet](https://github.com/itsOwen/BetterNet) - Precision Polyp Segmentation 🚀
 - [GeneticsGPT](https://github.com/itsOwen/GeneticsGPT) - AI-powered genetics search and analysis
