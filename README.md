@@ -18,7 +18,7 @@ Want to know more about me? [Check out my portfolio.](https://owensingh.com/)
 ## 📌 Featured Projects
 
 - [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) - A LLM Based web scraping tool (1.6k+ Stars)
-- [PlayCount](https://github.com/itsOwen/playcount-decky) - A Steam Deck Plugin that shows Live Player Count (23000+ Active Users)
+- [PlayCount](https://github.com/itsOwen/playcount-decky) - A Steam Deck Plugin that shows Live Player Count (30000+ Active Users)
 - [LetMeReShade](https://github.com/itsOwen/LetMeReShade) - A Steam Deck Plugin that allows you to use ReShade on Steam Deck/Linux (2000+ Active Users)
 - [There, I Saved You A Minute!](https://chromewebstore.google.com/detail/there-i-saved-you-a-minut/gkdifhfnmifllojmoegfhkhfkhkjeaao) - A Simple and Fun Chrome Web Summarizer Extension (60+ Active Users)
 - [BetterNet](https://github.com/itsOwen/BetterNet) - Precision Polyp Segmentation 🚀
