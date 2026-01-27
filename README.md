@@ -10,9 +10,9 @@ I specialize in building scalable systems, automating workflows, and developing 
 
 ## 📌 Featured Projects
 
-- [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) - A LLM Based web scraping tool (1.9k+ Stars)
-- [PlayCount](https://github.com/itsOwen/playcount-decky) - A Steam Deck Plugin that shows Live Player Count (87k+ Active Users)
-- [LetMeReShade](https://github.com/itsOwen/LetMeReShade) - A Steam Deck Plugin that allows you to use ReShade on Steam Deck/Linux (20k+ Active Users)
+- [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) - A LLM Based web scraping tool (2.7k+ Stars)
+- [PlayCount](https://github.com/itsOwen/playcount-decky) - A Steam Deck Plugin that shows Live Player Count (107k+ Active Users)
+- [LetMeReShade](https://github.com/itsOwen/LetMeReShade) - A Steam Deck Plugin that allows you to use ReShade on Steam Deck/Linux (27k+ Active Users)
 - [BetterNet](https://github.com/itsOwen/BetterNet) - Precision Polyp Segmentation 🚀
 - [GeneticsGPT](https://github.com/itsOwen/GeneticsGPT) - AI-powered genetics search and analysis
 - [Discord Blogger Integration](https://github.com/itsOwen/discord-blogger-integration) - Connect Discord with Blogger
