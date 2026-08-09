@@ -16,18 +16,6 @@ I specialize in building scalable systems, automating workflows, and developing 
 - [GeneticsGPT](https://github.com/itsOwen/GeneticsGPT) - AI-powered genetics search and analysis
 - [Discord Blogger Integration](https://github.com/itsOwen/discord-blogger-integration) - Connect Discord with Blogger
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/itsOwen">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsOwen&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/itsOwen">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsOwen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Owen's GitHub Stats" />
-</a>
-
-<br>
-
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
