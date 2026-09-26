@@ -1,7 +1,3 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://github.com/itsOwen)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=black)](https://github.com/itsOwen)
-[![Website Badge](https://img.shields.io/badge/Website-owens.sh-informational?style=flat&logo=googlechrome&logoColor=white&color=4285F4)](https://owens.sh)
-
 Hey there 👋
 
 I'm Owen, a Full Stack Developer with a strong focus on backend engineering.
